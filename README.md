@@ -10,6 +10,6 @@ os fundamentos de lógica de programação com JavaScript.
 
 🛠️ Tecnologias
 
-**HTML**: 
+**HTML**: Estrutura da página
 
 **JavaScript**: Lógica de cálculo.
